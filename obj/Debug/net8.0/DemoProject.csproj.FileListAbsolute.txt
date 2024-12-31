@@ -8,6 +8,7 @@ G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\DemoProject.dll
 G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\DemoProject.pdb
 G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Azure.Core.dll
 G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Azure.Identity.dll
+G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\FluentResults.dll
 G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Humanizer.dll
 G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -134,6 +135,7 @@ G:\DemoProject\DemoProject\DemoProject\obj\Debug\net8.0\DemoProject.AssemblyInfo
 G:\DemoProject\DemoProject\DemoProject\obj\Debug\net8.0\DemoProject.csproj.CoreCompileInputs.cache
 G:\DemoProject\DemoProject\DemoProject\obj\Debug\net8.0\DemoProject.MvcApplicationPartsAssemblyInfo.cs
 G:\DemoProject\DemoProject\DemoProject\obj\Debug\net8.0\DemoProject.MvcApplicationPartsAssemblyInfo.cache
+G:\DemoProject\DemoProject\DemoProject\obj\Debug\net8.0\DemoProject.sourcelink.json
 G:\DemoProject\DemoProject\DemoProject\obj\Debug\net8.0\scopedcss\bundle\DemoProject.styles.css
 G:\DemoProject\DemoProject\DemoProject\obj\Debug\net8.0\staticwebassets.build.json
 G:\DemoProject\DemoProject\DemoProject\obj\Debug\net8.0\staticwebassets.development.json
@@ -144,6 +146,7 @@ G:\DemoProject\DemoProject\DemoProject\obj\Debug\net8.0\staticwebassets\msbuild.
 G:\DemoProject\DemoProject\DemoProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DemoProject.props
 G:\DemoProject\DemoProject\DemoProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DemoProject.props
 G:\DemoProject\DemoProject\DemoProject\obj\Debug\net8.0\staticwebassets.pack.json
+G:\DemoProject\DemoProject\DemoProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 G:\DemoProject\DemoProject\DemoProject\obj\Debug\net8.0\DemoProj.BD042860.Up2Date
 G:\DemoProject\DemoProject\DemoProject\obj\Debug\net8.0\DemoProject.dll
 G:\DemoProject\DemoProject\DemoProject\obj\Debug\net8.0\refint\DemoProject.dll

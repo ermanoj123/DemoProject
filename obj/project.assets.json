@@ -46,6 +46,23 @@
           }
         }
       },
+      "FluentResults/3.15.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.1",
+          "System.Threading.Tasks.Extensions": "4.5.4"
+        },
+        "compile": {
+          "lib/netstandard2.1/FluentResults.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/FluentResults.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Humanizer.Core/2.14.1": {
         "type": "package",
         "compile": {
@@ -1723,6 +1740,22 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "FluentResults/3.15.0": {
+      "sha512": "Ap/7cQ+7cD5yEp7C8HnMf8F5D9J8EgZPEIo21+0B7VxipRb3aM8aeZ3Se0Tl1x8bfHOvEBdwQdgAwIoiPHJU4A==",
+      "type": "package",
+      "path": "fluentresults/3.15.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "FluentResults-Icon-128.png",
+        "fluentresults.3.15.0.nupkg.sha512",
+        "fluentresults.nuspec",
+        "lib/netstandard2.0/FluentResults.dll",
+        "lib/netstandard2.0/FluentResults.xml",
+        "lib/netstandard2.1/FluentResults.dll",
+        "lib/netstandard2.1/FluentResults.xml"
       ]
     },
     "Humanizer.Core/2.14.1": {
@@ -4754,6 +4787,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "FluentResults >= 3.15.0",
       "Microsoft.AspNetCore.OpenApi >= 8.0.10",
       "Microsoft.Bcl.AsyncInterfaces >= 8.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.10",
@@ -4813,6 +4847,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "FluentResults": {
+            "target": "Package",
+            "version": "[3.15.0, )"
+          },
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
             "version": "[8.0.10, )"
