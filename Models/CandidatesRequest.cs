@@ -9,7 +9,7 @@ namespace DemoProject.Models
         [StringLength(50, ErrorMessage = "First Name cannot exceed 50 characters.")]
         public string FirstName { get; set; } = null!;
 
-        [Required]
+        [Required] 
         [StringLength(50, ErrorMessage = "Last Name cannot exceed 50 characters.")]
         public string LastName { get; set; } = null!;
 

@@ -41,6 +41,17 @@ G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
 G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Serilog.dll
+G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Serilog.AspNetCore.dll
+G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Serilog.Sinks.File.dll
+G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Serilog.Sinks.PeriodicBatching.dll
+G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Serilog.Sinks.Seq.dll
 G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 G:\DemoProject\DemoProject\DemoProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll

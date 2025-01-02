@@ -1,0 +1,1 @@
+2025-01-01 22:49:14.198 +05:45 [INF] Application is starting
